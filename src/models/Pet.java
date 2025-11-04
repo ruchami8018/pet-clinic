@@ -1,4 +1,4 @@
-package com.petclinic.model;
+package models;
 
 public abstract class Pet {
 

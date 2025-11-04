@@ -1,7 +1,7 @@
 package vets;
 
-import com.petclinic.interfaces.Veterinarian;
-import com.petclinic.model.Pet;
+import interfaces.Veterinarian;
+import models.Pet;
 
 public class SpecialistVeterinarian implements Veterinarian {
 

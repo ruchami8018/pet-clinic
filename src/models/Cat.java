@@ -1,4 +1,4 @@
-package com.petclinic.model;
+package models;
 public class Cat extends Pet {
 
     private String color;

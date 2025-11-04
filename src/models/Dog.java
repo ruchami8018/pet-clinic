@@ -1,4 +1,4 @@
-package com.petclinic.model;
+package models;
 
 public class Dog extends Pet{
 private String breed;

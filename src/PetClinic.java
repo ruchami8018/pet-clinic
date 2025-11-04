@@ -1,12 +1,12 @@
-import com.petclinic.model.Cat;
-import com.petclinic.model.Dog;
-import com.petclinic.model.Pet;
+import models.Cat;
+import models.Dog;
+import models.Pet;
 import vets.SpecialistVeterinarian;
 import vets.GeneralVeterinarian;
 import java.util.ArrayList;
 import java.util.List;
-import vets.*;
-import com.petclinic.interfaces.Veterinarian;
+
+import interfaces.Veterinarian;
 
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or

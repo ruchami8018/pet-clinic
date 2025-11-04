@@ -1,5 +1,5 @@
-package com.petclinic.interfaces;
-import com.petclinic.model.Pet;
+package interfaces;
+import models.Pet;
 
 public interface Veterinarian {
     String getName();

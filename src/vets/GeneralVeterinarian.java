@@ -1,6 +1,6 @@
 package vets;
-import com.petclinic.interfaces.Veterinarian;
-import com.petclinic.model.Pet;
+import interfaces.Veterinarian;
+import models.Pet;
 
 public class GeneralVeterinarian implements Veterinarian{
     private String name;
